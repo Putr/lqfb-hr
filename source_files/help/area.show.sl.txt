@@ -1,0 +1,15 @@
+= Tematsko področje =
+
+Tukaj boste našli:
+- **Najnovejše dogodke:** Dogodke s tega tematskega področja
+- **Odprte zadeve:** Zadeve s tega tematskega področja, ki so trenutno odprte, tj. nove, v razpravi, zamrznjene ali na voljo za glasovanje
+- **Zaprte zadeve:** Zadeve s tega tematskega področja, kjer je glasovanje zaključeno, ali ki so bile ukinjene
+- **Udeleženci:** Možni volivci, ki so se odločili sodelovati na tem tematskem področju 
+- **Pooblastila:** Nastavitve pooblastil drugih članov za to tematsko področje (skupna pooblastila in pooblastila za posamezne zadeve tu niso navedena)
+
+Dokler ste možni volivec, lahko pokažete, da želite sodelovati na tem tematskem področju. Kliknite na "Sodeluj pri tem področju", če želite to storiti. To ima naslednje posledice: 
+- Tematsko področje bo prikazano na vaši domači strani pod razdelkom "Moja področja".
+- Šteje se vas kot del osnovne populacije za razprave o zadevi. To vpliva na kvorum podpornikov, ki ga morajo doseči iniciative.
+- Poslana vam bodo e-poštna obvestila o dogodkih s tega tematskega področja, če le imate primerne nastavitve obveščanja. Nastavitve obveščanja lahko spremenite s klikom na "Nastavitve" v uporabniškem meniju v zgornjem desnem kotu.
+
+Pooblastitev tematskega področja vpliva na vse zadeve, pri katerih niste nastavili drugačnega pooblastila za zadevo. Če ne nastavite pooblastila za tematsko področje, je možno, da velja pooblastilo za organizacijsko enoto. Če vas osebno zanima neka zadeva, bodo potencialne pooblastitve odložene do glasovanja. Glasovanje o zadevi ukine obstoječo pooblastitev.
